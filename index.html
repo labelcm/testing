@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DailyScope News</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar__left">
+        <button id="menuBtn" class="icon-button" aria-label="Open menu">☰</button>
+        <a href="#" class="brand">DailyScope</a>
+      </div>
+      <div class="topbar__right">
+        <button id="themeBtn" class="icon-button" aria-label="Toggle theme">🌙</button>
+        <button class="subscribe-btn">Subscribe</button>
+      </div>
+    </header>
+
+    <nav class="sections" id="sectionsNav">
+      <button class="section-chip active" data-section="all">All</button>
+      <button class="section-chip" data-section="world">World</button>
+      <button class="section-chip" data-section="business">Business</button>
+      <button class="section-chip" data-section="technology">Technology</button>
+      <button class="section-chip" data-section="sports">Sports</button>
+      <button class="section-chip" data-section="health">Health</button>
+      <button class="section-chip" data-section="entertainment">Entertainment</button>
+    </nav>
+
+    <main class="layout">
+      <aside class="sidebar">
+        <section class="panel search-panel">
+          <h2>Search News</h2>
+          <form id="searchForm" class="search-form">
+            <label for="searchInput" class="visually-hidden">Search articles</label>
+            <input id="searchInput" type="search" placeholder="Search headlines, keywords..." />
+            <button type="submit">Search</button>
+          </form>
+          <div class="quick-tags" id="quickTags"></div>
+        </section>
+
+        <section class="panel weather-panel">
+          <h2>Weather</h2>
+          <p><strong>New York:</strong> 21°C, Clear</p>
+          <p><strong>London:</strong> 16°C, Light Rain</p>
+          <p><strong>Tokyo:</strong> 24°C, Breezy</p>
+        </section>
+
+        <section class="panel ad-panel">
+          <p class="ad-label">Sponsored</p>
+          <div class="ad-slot ad-slot--tall">Ad Space 300 × 600</div>
+        </section>
+      </aside>
+
+      <section class="content">
+        <article class="hero panel" id="heroArticle"></article>
+
+        <section class="panel controls-row">
+          <div>
+            <label for="sortSelect">Sort by</label>
+            <select id="sortSelect">
+              <option value="latest">Latest</option>
+              <option value="popular">Most Popular</option>
+              <option value="editor">Editor Picks</option>
+            </select>
+          </div>
+          <div id="resultMeta" class="result-meta"></div>
+        </section>
+
+        <section id="articlesGrid" class="articles-grid"></section>
+      </section>
+
+      <aside class="right-rail">
+        <section class="panel live-panel">
+          <h2>Live Updates</h2>
+          <ul id="liveUpdates" class="live-updates"></ul>
+        </section>
+
+        <section class="panel newsletter-panel">
+          <h2>Newsletters</h2>
+          <p>Get top stories in your inbox every morning.</p>
+          <form id="newsletterForm" class="newsletter-form">
+            <label for="newsletterEmail" class="visually-hidden">Email address</label>
+            <input id="newsletterEmail" type="email" placeholder="Email address" required />
+            <button type="submit">Join</button>
+          </form>
+          <p id="newsletterMessage" class="newsletter-message" aria-live="polite"></p>
+        </section>
+
+        <section class="panel ad-panel">
+          <p class="ad-label">Advertisement</p>
+          <div class="ad-slot">Ad Space 300 × 250</div>
+        </section>
+
+        <section class="panel trending-panel">
+          <h2>Trending</h2>
+          <ol id="trendingList"></ol>
+        </section>
+      </aside>
+    </main>
+
+    <footer class="footer">
+      <p>© 2026 DailyScope Media. All rights reserved.</p>
+      <div class="footer-links">
+        <a href="#">About</a>
+        <a href="#">Advertise</a>
+        <a href="#">Privacy</a>
+        <a href="#">Contact</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
