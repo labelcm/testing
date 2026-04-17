@@ -24,38 +24,50 @@ const PROVIDER_LOGOS = {
 };
 
 const MODELS = [
-  ["claude-sonnet-4-6","anthropic"],
-  ["claude-haiku-4-5","anthropic"],
-  ["gpt-5.3-codex","openai"],
-  ["gpt-5-2","openai"],
-  ["gpt-5.2-codex","openai"],
-  ["grok-code-fast-1","xai"],
-  ["sarvamai/sarvam-m","sarvam"],
-  ["claude-opus-4-6","anthropic"],
-  ["claude-opus-4-7","anthropic"],
-  ["gpt-5.4","openai"],
-  ["xiaomi/mimo-v2-pro","mimo"],
-  ["xiaomi/mimo-v2-omni","mimo"],
-  ["z-ai/glm-5.1","zhipu"],
-  ["qwen/qwen3.6-plus","qwen"],
-  ["deepseek-chat","deepseek"],
-  ["llama3.1-8B","meta"],
-  ["phi-4-multimodal-instruct","microsoft"],
-  ["minimax-m2.5","minimax"],
-  ["mistral-large-3-675b-instruct","mistral"],
-  ["kimi-k2.5","kimi"],
-  ["nemotron-3-nano-30b-a3b","nvidia"],
-  ["step-3.5-flash","stepfun"],
-  ["glm-5","zhipu"],
-  ["kivest-tungtung-brainrot","kivestai"]
+  ["claude-sonnet-4-6","anthropic","text"],
+  ["claude-haiku-4-5","anthropic","text"],
+  ["gpt-5.3-codex","openai","text"],
+  ["gpt-5-2","openai","text"],
+  ["gpt-5.2-codex","openai","text"],
+  ["grok-code-fast-1","xai","text"],
+  ["sarvamai/sarvam-m","sarvam","text"],
+  ["claude-opus-4-6","anthropic","text"],
+  ["claude-opus-4-7","anthropic","text"],
+  ["gpt-5.4","openai","text"],
+  ["xiaomi/mimo-v2-pro","mimo","text"],
+  ["xiaomi/mimo-v2-omni","mimo","text"],
+  ["z-ai/glm-5.1","zhipu","text"],
+  ["qwen/qwen3.6-plus","qwen","text"],
+  ["deepseek-chat","deepseek","text"],
+  ["llama3.1-8B","meta","text"],
+  ["phi-4-multimodal-instruct","microsoft","text"],
+  ["minimax-m2.5","minimax","text"],
+  ["mistral-large-3-675b-instruct","mistral","text"],
+  ["kimi-k2.5","kimi","text"],
+  ["nemotron-3-nano-30b-a3b","nvidia","text"],
+  ["step-3.5-flash","stepfun","text"],
+  ["glm-5","zhipu","text"],
+  ["kivest-tungtung-brainrot","kivestai","text"],
+
+  ["gpt-image-1","openai","image"],
+  ["gpt-image-1.5","openai","image"],
+  ["qwen-image","qwen","image"],
+  ["glm-image","zhipu","image"],
+  ["gemini-3.1-flash-image-preview","google","image"],
+  ["gemini-3-pro-image-preview","google","image"],
+  ["grok-image","xai","image"],
+
+  ["grok-video","xai","video"],
+  ["veo-3.1","google","video"]
 ];
 
 MODELS.forEach(m => {
   const name = m[0];
   const provider = m[1];
+  const type = m[2];
   const logo = PROVIDER_LOGOS[provider] || PROVIDER_LOGOS["kivestai"];
 
-  document.write(name + "<br>");
+  document.write(name + " (" + type + ")<br>");
   document.write(logo + "<br>");
 });
 </script>
