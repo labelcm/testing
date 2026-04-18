@@ -1,59 +1,118 @@
 claude-sonnet-4-6 (text)
+https://svgstack.com/media/img/claude-logo-6FGW382926.webp
 claude-haiku-4-5 (text)
+https://svgstack.com/media/img/claude-logo-6FGW382926.webp
 gpt-5.3-codex (text)
+https://svgstack.com/media/img/chatgpt-logo-hyKG382924.webp
 gpt-5-2 (text)
+https://svgstack.com/media/img/chatgpt-logo-hyKG382924.webp
 gpt-5.2-codex (text)
+https://svgstack.com/media/img/chatgpt-logo-hyKG382924.webp
 grok-code-fast-1 (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png
 sarvamai/sarvam-m (text)
+https://i.ibb.co/W4m5pZZ6/image.png
 claude-opus-4-6 (text)
+https://svgstack.com/media/img/claude-logo-6FGW382926.webp
 claude-opus-4-7 (text)
+https://svgstack.com/media/img/claude-logo-6FGW382926.webp
 gpt-5.4 (text)
+https://svgstack.com/media/img/chatgpt-logo-hyKG382924.webp
 xiaomi/mimo-v2-pro (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/xiaomimimo.png
 xiaomi/mimo-v2-omni (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/xiaomimimo.png
 z-ai/glm-5.1 (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/zai.png
 qwen/qwen3.6-plus (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen3.5-397b-a17b (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen3-235b-a22b (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen3-32b (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen3-coder-480b-a35b-instruct (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen3-next-80b-a3b-instruct (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen3-next-80b-a3b-thinking (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 seed-oss-36b-instruct (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/bytedance-color.png
 deepseek-r1-0528 (text)
+https://svgstack.com/media/img/deepseek-logo-TrLl386065.webp
 deepseek-chat (text)
+https://svgstack.com/media/img/deepseek-logo-TrLl386065.webp
 deepseek-v3.2 (text)
+https://svgstack.com/media/img/deepseek-logo-TrLl386065.webp
 deepseek-reasoner (text)
+https://svgstack.com/media/img/deepseek-logo-TrLl386065.webp
 llama-4-maverick-17b-128e-instruct (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/meta-color.png
 llama-4-scout-17b-16e-instruct (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/meta-color.png
 phi-4-mini-flash-reasoning (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/microsoft-color.png
 phi-4-multimodal-instruct (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/microsoft-color.png
 minimax-m2.1 (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/minimax-color.png
 minimax-m2.5 (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/minimax-color.png
 minimax-m2 (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/minimax-color.png
 devstral-2-123b (text)
+https://svgstack.com/media/img/mistral-ai-logo-1N5p386073.webp
 mistral-large-3-675b-instruct (text)
+https://svgstack.com/media/img/mistral-ai-logo-1N5p386073.webp
 kimi-k2-instruct-0905 (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/kimi.png
 kimi-k2.5 (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/kimi.png
 kimi-k2-thinking (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/kimi.png
 nemotron-3-nano-30b-a3b (text)
+https://svgstack.com/media/img/nvidia-logo-pv5D386076.webp
 gpt-oss-120b (text)
+https://svgstack.com/media/img/chatgpt-logo-hyKG382924.webp
 gpt-oss-20b (text)
+https://svgstack.com/media/img/chatgpt-logo-hyKG382924.webp
 step-3.5-flash (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/stepfun-color.png
 glm-4.7 (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/zai.png
 glm-5 (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/zai.png
 kivest-tungtung-brainrot (text)
+https://i.ibb.co/xqW09xK3/image-removebg-preview-2.png
 llama3.1-8B (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/meta-color.png
 qwen3.5-plus (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen3.5-flash (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen-slides (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen-video (video)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen-deep-research (text)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 qwen-image (image)
+https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png
 glm-image (image)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/zai.png
 gpt-image-1 (image)
+https://svgstack.com/media/img/chatgpt-logo-hyKG382924.webp
 gpt-image-1.5 (image)
+https://svgstack.com/media/img/chatgpt-logo-hyKG382924.webp
 gemini-3.1-flash-image-preview (image)
+https://svgstack.com/media/img/gemini-logo-P9mq386067.webp
 gemini-3-pro-image-preview (image)
+https://svgstack.com/media/img/gemini-logo-P9mq386067.webp
 grok-image (image)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png
 grok-video (video)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png
 veo-3.1 (video)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/deepmind-color.png
