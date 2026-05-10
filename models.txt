@@ -138,3 +138,5 @@ openai/gpt-oss-20b (text)
 https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png
 openai/gpt-oss-120b (text)
 https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png
+step-3.5-flash (text)
+https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/stepfun-color.png
